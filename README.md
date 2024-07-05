@@ -22,13 +22,13 @@ To run this project, you will need:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/harsh3311/Netflix-End-To-End-Clone-Responsive.git
+    git clone https://github.com/harsh3311/Netflix-Landing-Page-Clone.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd Netflix-End-To-End-Clone-Responsive
+    cd Netflix-Landing-Page-Clone
     ```
 
 3. **Open the `index.html` file in your web browser:**
