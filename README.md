@@ -2,15 +2,6 @@
 
 This project is a responsive end-to-end clone of the Netflix landing page, built with HTML, CSS, and JavaScript. It includes all the features seen on the official Netflix page, providing a seamless and authentic user experience.
 
-## Features
-
-- **Responsive Design:** Adapts to various screen sizes, providing a consistent experience across devices.
-- **Dynamic Content:** Interactive elements and dynamic content loading to mimic the Netflix browsing experience.
-- **User Authentication:** Login and sign-up forms with validation.
-- **Content Carousel:** Scrollable sections showcasing different content categories.
-- **Video Previews:** Hover effects to preview videos.
-- **Custom Animations:** Smooth animations to enhance user interaction.
-
 ## Technologies Used
 
 - **HTML:** Structuring the content of the landing page.
@@ -57,6 +48,5 @@ netflix-landing-page-clone/
 │   └── ...
 ├── js/
 │   ├── main.js
-│   └── carousel.js
 ├── index.html
 └── README.md
